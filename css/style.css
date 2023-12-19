@@ -1,0 +1,13 @@
+.container {
+    max-width: 1440px;
+    width: 100%;
+    margin: auto;
+}
+/* header */
+.app-header {
+    display: flex;
+}
+/* section 1 */
+/* section 2 */
+/* section 3 */
+/* footer */
