@@ -1,0 +1,21 @@
+@media (max-width: 835px) {
+    /* header */
+    .app-header {
+        padding-inline: 67px;
+    }
+    /* section1 */
+    .app-section1 {
+        padding-inline: 67px;
+    }
+    /* section 2 */
+    .app-section2 {
+        margin: 80px 67px;
+    }
+    /* section 3 */
+    .app-section3 {
+        margin: 0 67px 80px 67px;
+    }
+    .app-section3-img-container {
+        height: 320px;
+    }
+}
