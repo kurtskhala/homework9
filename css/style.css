@@ -118,4 +118,18 @@
 }
 
 /* section 3 */
+.app-section3 {
+    margin: 0 130px 130px 130px;
+}
+
+.app-section3-photos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.app-section3-small-photos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
 /* footer */
