@@ -74,5 +74,48 @@
     line-height: 28px;
 }
 /* section 2 */
+.app-section2 {
+    margin: 130px;
+}
+
+.app-section-header {
+    color: #000;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    margin-bottom: 35px;
+}
+
+.app-section2-cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.app-section2-card {
+    border: 1px solid #000;
+    width: 378px;
+}
+
+.app-section2-img {
+    width: 100%;
+}
+
+.app-section2-card-header {
+    color: #000;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+    margin: 16px 0 8px 16px;
+}
+
+.app-section2-card-text {
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 16px 16px 16px;
+
+}
+
 /* section 3 */
 /* footer */
